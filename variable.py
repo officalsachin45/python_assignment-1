@@ -1,0 +1,10 @@
+name=str(input("enter your name:-"))
+age=int(input("enter your age:-"))
+qual=str(input("enter your qual:-"))
+year=int(input("enter years of experience:-"))
+print(name,age,qual,year,sep='\n')
+#values of three variable,each in anew line
+a=int(input("your number:"))
+b=int(input("your number:"))
+c=int(input("your number:"))
+print(a,b,c,sep='\n')
